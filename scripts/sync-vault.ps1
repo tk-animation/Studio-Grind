@@ -90,6 +90,14 @@ $part1Lessons = Get-Lessons $part1Path
 $part2Lessons = Get-Lessons $part2Path
 $part1Cards = New-LessonCards $part1Lessons "Drawing foundations" "part-1-drawing-foundations"
 $part2Cards = New-LessonCards $part2Lessons "Animation practice" "part-2-animation-grind"
+$latestNote = Get-ChildItem -LiteralPath $resolvedVault -Recurse -File -Filter "*.md" |
+  Sort-Object LastWriteTime -Descending |
+  Select-Object -First 1
+$lastUpdatedIso = $latestNote.LastWriteTime.ToString("yyyy-MM-dd")
+$lastUpdatedLabel = $latestNote.LastWriteTime.ToString(
+  "MMMM d, yyyy",
+  [System.Globalization.CultureInfo]::InvariantCulture
+)
 
 $homePage = @"
 ---
@@ -102,6 +110,7 @@ cssclasses:
 <section class="studio-hero">
   <div class="studio-hero-copy">
     <h1>Studio Grind</h1>
+    <p class="studio-updated">Last updated <time datetime="$lastUpdatedIso">$lastUpdatedLabel</time></p>
     <div class="studio-actions">
       <a class="studio-button primary" href="/part-1-drawing-foundations/">Start with drawing</a>
       <a class="studio-button" href="/part-2-animation-grind/">Jump to animation</a>
