@@ -32,6 +32,8 @@ You are 100% free to dislike it and hate the ideas, I am not that smart but my a
 
 You should gather good references for every step. Looking at art and building your own taste and judgement for aesthetic and technicality is a huge strength.
 
+Talking and discussing with a community can bring a lot of new knowledge to your daily activities too. You can even consider that part of grind in this simple method.
+
 <section class="curriculum-block">
   <div class="section-heading"><span>Part 1</span><h2>Knowing how to draw</h2><p>Five levels that build construction, perspective, anatomy, light, and visual storytelling.</p></div>
   <div class="lesson-grid"><a class="lesson-card" href="/part-1-drawing-foundations/level-0.-simple-fundamentals"><span>Level 0</span><strong>Level 0. Simple Fundamentals</strong><small>Drawing foundations</small></a>
