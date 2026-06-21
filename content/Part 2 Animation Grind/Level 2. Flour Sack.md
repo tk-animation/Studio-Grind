@@ -15,4 +15,4 @@ There's too many of this on Youtube, feel free to look through it if you need.
 
 ---
 
-<nav class="lesson-nav" aria-label="Lesson navigation"><a class="lesson-nav-link previous" href="/part-2-animation-grind/level-1.-first-grind"><span>Previous</span><strong>Level 1. First Grind</strong></a><a class="lesson-nav-home" href="/part-2-animation-grind/">All lessons</a><a class="lesson-nav-link next" href="/part-2-animation-grind/level-3.-head-turn"><span>Next</span><strong>Level 3. Head turn</strong></a></nav>
+<nav class="lesson-nav" aria-label="Lesson navigation"><a class="lesson-nav-link previous" href="/part-2-animation-grind/level-10.-longer-shots"><span>Previous</span><strong>Level 10. Longer shots</strong></a><a class="lesson-nav-home" href="/part-2-animation-grind/">All lessons</a><a class="lesson-nav-link next" href="/part-2-animation-grind/level-3.-anthropomorphism"><span>Next</span><strong>Level 3. Anthropomorphism</strong></a></nav>

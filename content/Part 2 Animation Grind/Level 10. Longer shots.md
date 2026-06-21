@@ -1,5 +1,5 @@
 ---
-title: "Level 8. Longer shots"
+title: "Level 10. Longer shots"
 description: "Part 2 - Animation practice lesson in the Studio Grind curriculum."
 cssclasses:
   - studio-lesson
@@ -13,4 +13,4 @@ Additional challenge: Fill a timesheet with it.
 
 ---
 
-<nav class="lesson-nav" aria-label="Lesson navigation"><a class="lesson-nav-link previous" href="/part-2-animation-grind/level-7.5-effects-animation"><span>Previous</span><strong>Level 7.5 Effects animation</strong></a><a class="lesson-nav-home" href="/part-2-animation-grind/">All lessons</a><span></span></nav>
+<nav class="lesson-nav" aria-label="Lesson navigation"><a class="lesson-nav-link previous" href="/part-2-animation-grind/level-1.-first-grind"><span>Previous</span><strong>Level 1. First Grind</strong></a><a class="lesson-nav-home" href="/part-2-animation-grind/">All lessons</a><a class="lesson-nav-link next" href="/part-2-animation-grind/level-2.-flour-sack"><span>Next</span><strong>Level 2. Flour Sack</strong></a></nav>

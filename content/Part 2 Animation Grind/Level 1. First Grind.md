@@ -20,4 +20,4 @@ Challenge yourself, surprise yourself.
 
 ---
 
-<nav class="lesson-nav" aria-label="Lesson navigation"><a class="lesson-nav-link previous" href="/part-2-animation-grind/level-0.-fundamentals"><span>Previous</span><strong>Level 0. Fundamentals</strong></a><a class="lesson-nav-home" href="/part-2-animation-grind/">All lessons</a><a class="lesson-nav-link next" href="/part-2-animation-grind/level-2.-flour-sack"><span>Next</span><strong>Level 2. Flour Sack</strong></a></nav>
+<nav class="lesson-nav" aria-label="Lesson navigation"><a class="lesson-nav-link previous" href="/part-2-animation-grind/level-0.-fundamentals"><span>Previous</span><strong>Level 0. Fundamentals</strong></a><a class="lesson-nav-home" href="/part-2-animation-grind/">All lessons</a><a class="lesson-nav-link next" href="/part-2-animation-grind/level-10.-longer-shots"><span>Next</span><strong>Level 10. Longer shots</strong></a></nav>

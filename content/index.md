@@ -9,7 +9,7 @@ cssclasses:
   <div class="studio-hero-copy">
     <h1>Studio Grind</h1>
     <div class="studio-meta">
-      <p class="studio-updated">Last updated <time datetime="2026-06-20">June 20, 2026</time></p>
+      <p class="studio-updated">Last updated <time datetime="2026-06-21">June 21, 2026</time></p>
       <p class="studio-views" aria-live="polite">Views <strong data-goatcounter-views>--</strong></p>
     </div>
     <div class="studio-actions">
@@ -53,13 +53,16 @@ Talking and discussing with a community can bring a lot of new knowledge to your
   <div class="lesson-grid"><a class="lesson-card" href="/part-2-animation-grind/getting-started-with-animation"><span>Start here</span><strong>Getting Started with animation</strong><small>Animation practice</small></a>
 <a class="lesson-card" href="/part-2-animation-grind/level-0.-fundamentals"><span>Level 0</span><strong>Level 0. Fundamentals</strong><small>Animation practice</small></a>
 <a class="lesson-card" href="/part-2-animation-grind/level-1.-first-grind"><span>Level 1</span><strong>Level 1. First Grind</strong><small>Animation practice</small></a>
+<a class="lesson-card" href="/part-2-animation-grind/level-10.-longer-shots"><span>Level 10</span><strong>Level 10. Longer shots</strong><small>Animation practice</small></a>
 <a class="lesson-card" href="/part-2-animation-grind/level-2.-flour-sack"><span>Level 2</span><strong>Level 2. Flour Sack</strong><small>Animation practice</small></a>
-<a class="lesson-card" href="/part-2-animation-grind/level-3.-head-turn"><span>Level 3</span><strong>Level 3. Head turn</strong><small>Animation practice</small></a>
-<a class="lesson-card" href="/part-2-animation-grind/level-5.-walk-cycle"><span>Level 5</span><strong>Level 5. Walk Cycle</strong><small>Animation practice</small></a>
-<a class="lesson-card" href="/part-2-animation-grind/level-6.-lifting-heavy-objects"><span>Level 6</span><strong>Level 6. Lifting heavy objects</strong><small>Animation practice</small></a>
-<a class="lesson-card" href="/part-2-animation-grind/level-7.-attack-combo"><span>Level 7</span><strong>Level 7. Attack combo</strong><small>Animation practice</small></a>
-<a class="lesson-card" href="/part-2-animation-grind/level-7.5-effects-animation"><span>Level 7.5</span><strong>Level 7.5 Effects animation</strong><small>Animation practice</small></a>
-<a class="lesson-card" href="/part-2-animation-grind/level-8.-longer-shots"><span>Level 8</span><strong>Level 8. Longer shots</strong><small>Animation practice</small></a></div>
+<a class="lesson-card" href="/part-2-animation-grind/level-3.-anthropomorphism"><span>Level 3</span><strong>Level 3. Anthropomorphism</strong><small>Animation practice</small></a>
+<a class="lesson-card" href="/part-2-animation-grind/level-4.-head-turn"><span>Level 4</span><strong>Level 4. Head turn</strong><small>Animation practice</small></a>
+<a class="lesson-card" href="/part-2-animation-grind/level-5.-lifting-heavy-objects"><span>Level 5</span><strong>Level 5. Lifting heavy objects</strong><small>Animation practice</small></a>
+<a class="lesson-card" href="/part-2-animation-grind/level-6.-walk-cycle"><span>Level 6</span><strong>Level 6. Walk Cycle</strong><small>Animation practice</small></a>
+<a class="lesson-card" href="/part-2-animation-grind/level-7.-a-take"><span>Level 7</span><strong>Level 7. A Take</strong><small>Animation practice</small></a>
+<a class="lesson-card" href="/part-2-animation-grind/level-8.-rotation-cycle"><span>Level 8</span><strong>Level 8. Rotation Cycle</strong><small>Animation practice</small></a>
+<a class="lesson-card" href="/part-2-animation-grind/level-8.5-effects-animation"><span>Level 8.5</span><strong>Level 8.5 Effects animation</strong><small>Animation practice</small></a>
+<a class="lesson-card" href="/part-2-animation-grind/level-9.-attack-combo"><span>Level 9</span><strong>Level 9. Attack combo</strong><small>Animation practice</small></a></div>
   <a class="section-link" href="/part-2-animation-grind/">View animation curriculum -&gt;</a>
 </section>
 

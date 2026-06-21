@@ -1,5 +1,5 @@
 ---
-title: "Level 7. Attack combo"
+title: "Level 9. Attack combo"
 description: "Part 2 - Animation practice lesson in the Studio Grind curriculum."
 cssclasses:
   - studio-lesson
@@ -11,4 +11,4 @@ Animate a short attack combo for your character, making sure you analyze the int
 
 ---
 
-<nav class="lesson-nav" aria-label="Lesson navigation"><a class="lesson-nav-link previous" href="/part-2-animation-grind/level-6.-lifting-heavy-objects"><span>Previous</span><strong>Level 6. Lifting heavy objects</strong></a><a class="lesson-nav-home" href="/part-2-animation-grind/">All lessons</a><a class="lesson-nav-link next" href="/part-2-animation-grind/level-7.5-effects-animation"><span>Next</span><strong>Level 7.5 Effects animation</strong></a></nav>
+<nav class="lesson-nav" aria-label="Lesson navigation"><a class="lesson-nav-link previous" href="/part-2-animation-grind/level-8.5-effects-animation"><span>Previous</span><strong>Level 8.5 Effects animation</strong></a><a class="lesson-nav-home" href="/part-2-animation-grind/">All lessons</a><span></span></nav>

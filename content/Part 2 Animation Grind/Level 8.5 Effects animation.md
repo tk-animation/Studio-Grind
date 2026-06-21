@@ -1,5 +1,5 @@
 ---
-title: "Level 7.5 Effects animation"
+title: "Level 8.5 Effects animation"
 description: "Part 2 - Animation practice lesson in the Studio Grind curriculum."
 cssclasses:
   - studio-lesson
@@ -21,4 +21,4 @@ and water: [https://pa-works.jp/howto/ef_water.html](https://pa-works.jp/howto/e
 
 ---
 
-<nav class="lesson-nav" aria-label="Lesson navigation"><a class="lesson-nav-link previous" href="/part-2-animation-grind/level-7.-attack-combo"><span>Previous</span><strong>Level 7. Attack combo</strong></a><a class="lesson-nav-home" href="/part-2-animation-grind/">All lessons</a><a class="lesson-nav-link next" href="/part-2-animation-grind/level-8.-longer-shots"><span>Next</span><strong>Level 8. Longer shots</strong></a></nav>
+<nav class="lesson-nav" aria-label="Lesson navigation"><a class="lesson-nav-link previous" href="/part-2-animation-grind/level-8.-rotation-cycle"><span>Previous</span><strong>Level 8. Rotation Cycle</strong></a><a class="lesson-nav-home" href="/part-2-animation-grind/">All lessons</a><a class="lesson-nav-link next" href="/part-2-animation-grind/level-9.-attack-combo"><span>Next</span><strong>Level 9. Attack combo</strong></a></nav>
