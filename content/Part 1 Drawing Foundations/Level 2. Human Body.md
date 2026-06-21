@@ -8,7 +8,7 @@ cssclasses:
 <p class="lesson-kicker">Part 1 - Drawing foundations</p>
 
 We will see two outlooks on human body, one more gestural with:
--Steve Hustonâ€™s Figure Drawing for Artists
+-Steve Huston’s Figure Drawing for Artists
 ![[Pasted image 20260616021443.png|392]]
 
 

@@ -6,7 +6,7 @@ cssclasses:
 
 Very very nice study resources: https://app.milanote.com/1UP9KJ15UVtZ6g/animation-studies?p=jFc2zz0S70M
 
-Maxâ€™s Resources & Direction for Animation & Drawing: https://docs.google.com/document/d/1E41G7lumNE4t_Hyr6GNMem_Lrdq3EU9I4VnIzjVVMSE/edit?tab=t.0#heading=h.g0xii8rxrbgn
+Max's Resources & Direction for Animation & Drawing: https://docs.google.com/document/d/1E41G7lumNE4t_Hyr6GNMem_Lrdq3EU9I4VnIzjVVMSE/edit?tab=t.0#heading=h.g0xii8rxrbgn
 
 Macquia Genga with audio commentary: https://pa-works.jp/sayoasa_genga.html
 

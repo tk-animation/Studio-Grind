@@ -14,7 +14,7 @@ Really really simple playlist to get your started on how those "moving-drawings"
 Very very good way to start, you can do one or a feel animations to try every step of the playlist, it's gonna be very good and valuable practice.
 
 
-After that, of course its **The Animatorâ€™s Survival Kit**, can't run from it, it's pretty good. Covers timing, spacing, working methods, walks, weight, dialogue, acting, there's even videos to go along with it, and it's really important in a beginner's life. 
+After that, of course its **The Animator's Survival Kit**, can't run from it, it's pretty good. Covers timing, spacing, working methods, walks, weight, dialogue, acting, there's even videos to go along with it, and it's really important in a beginner's life. 
 
 Full Survival Kit video lessons: https://youtu.be/fuNW9vLUxu4
 

@@ -35,6 +35,10 @@ function Write-Utf8NoBom([string]$Path, [string]$Value) {
   [System.IO.File]::WriteAllText($Path, $Value, [System.Text.UTF8Encoding]::new($false))
 }
 
+function Read-Utf8([string]$Path) {
+  return [System.IO.File]::ReadAllText($Path, [System.Text.UTF8Encoding]::new($false))
+}
+
 function Get-Lessons([string]$Folder) {
   return @(Get-ChildItem -LiteralPath $Folder -Filter "*.md" -File |
     Where-Object { $_.Name -ne "index.md" } |
@@ -61,7 +65,7 @@ function Add-LessonChrome(
   [string]$NextTitle
 ) {
   $title = [System.IO.Path]::GetFileNameWithoutExtension($Lesson.Name)
-  $body = Get-Content -LiteralPath $Lesson.FullName -Raw
+  $body = Read-Utf8 $Lesson.FullName
   $frontmatter = "---`r`ntitle: `"$title`"`r`ndescription: `"$Track lesson in the Studio Grind curriculum.`"`r`ncssclasses:`r`n  - studio-lesson`r`n---`r`n`r`n"
   $previous = if ($PreviousUrl) { "<a class=`"lesson-nav-link previous`" href=`"$PreviousUrl`"><span>Previous</span><strong>$(Encode-Html $PreviousTitle)</strong></a>" } else { "<span></span>" }
   $next = if ($NextUrl) { "<a class=`"lesson-nav-link next`" href=`"$NextUrl`"><span>Next</span><strong>$(Encode-Html $NextTitle)</strong></a>" } else { "<span></span>" }
@@ -71,7 +75,7 @@ function Add-LessonChrome(
 }
 
 $landingPath = Join-Path $resolvedContent "0. This is a short guide.md"
-$landingBody = if (Test-Path -LiteralPath $landingPath) { Get-Content -LiteralPath $landingPath -Raw } else { "" }
+$landingBody = if (Test-Path -LiteralPath $landingPath) { Read-Utf8 $landingPath } else { "" }
 if (Test-Path -LiteralPath $landingPath) {
   Remove-Item -LiteralPath $landingPath -Force
 }
@@ -199,7 +203,7 @@ foreach ($utility in @("Useful Links.md", "Special Thanks.md")) {
   $utilityPath = Join-Path $resolvedContent $utility
   if (Test-Path -LiteralPath $utilityPath) {
     $title = [System.IO.Path]::GetFileNameWithoutExtension($utility)
-    $body = Get-Content -LiteralPath $utilityPath -Raw
+    $body = Read-Utf8 $utilityPath
     $frontmatter = "---`r`ntitle: `"$title`"`r`ncssclasses:`r`n  - studio-utility`r`n---`r`n`r`n"
     Write-Utf8NoBom $utilityPath ($frontmatter + $body.Trim())
   }
