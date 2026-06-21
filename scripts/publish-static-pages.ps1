@@ -20,7 +20,7 @@ try {
   }
 
   node --import tsx -e "import('./quartz/plugins/loader/gitLoader.ts').then(m => m.regeneratePluginIndex({ verbose: true }))"
-  npx quartz build
+  node quartz/bootstrap-cli.mjs build
 
   if (-not (Test-Path -LiteralPath $PagesWorktree)) {
     git worktree add -B gh-pages $PagesWorktree
