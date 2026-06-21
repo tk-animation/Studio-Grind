@@ -8,7 +8,10 @@ cssclasses:
 <section class="studio-hero">
   <div class="studio-hero-copy">
     <h1>Studio Grind</h1>
-    <p class="studio-updated">Last updated <time datetime="2026-06-20">June 20, 2026</time></p>
+    <div class="studio-meta">
+      <p class="studio-updated">Last updated <time datetime="2026-06-20">June 20, 2026</time></p>
+      <p class="studio-views" aria-live="polite">Views <strong data-goatcounter-views>--</strong></p>
+    </div>
     <div class="studio-actions">
       <a class="studio-button primary" href="/part-1-drawing-foundations/">Start with drawing</a>
       <a class="studio-button" href="/part-2-animation-grind/">Jump to animation</a>

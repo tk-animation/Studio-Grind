@@ -155,12 +155,30 @@ article.studio-section > .article-title {
   margin: 0.45rem 0 0.75rem;
 }
 
-.studio-updated {
+.studio-meta {
+  align-items: center;
   color: #aeb4bd;
+  display: flex;
+  flex-wrap: wrap;
   font-family: var(--codeFont);
   font-size: 0.78rem;
+  gap: 0.45rem 1rem;
   margin: 0 0 0.75rem;
   text-transform: uppercase;
+}
+
+.studio-meta p {
+  margin: 0;
+}
+
+.studio-views {
+  border-left: 1px solid #4b5058;
+  padding-left: 1rem;
+}
+
+.studio-views strong {
+  color: #fff;
+  font-weight: 600;
 }
 
 .studio-kicker,
