@@ -1,12 +1,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://tk-animation.github.io/Studio-Grind/special-thanks</loc>
-    <lastmod>2026-06-21T01:41:50.665Z</lastmod>
+    <loc>https://tk-animation.github.io/Studio-Grind/part-1-drawing-foundations/level-0.-simple-fundamentals</loc>
+    <lastmod>2026-06-21T01:41:50.588Z</lastmod>
   </url><url>
-    <loc>https://tk-animation.github.io/Studio-Grind/useful-links</loc>
-    <lastmod>2026-06-21T01:41:50.658Z</lastmod>
+    <loc>https://tk-animation.github.io/Studio-Grind/part-1-drawing-foundations/level-1.-perspective</loc>
+    <lastmod>2026-06-21T01:41:50.596Z</lastmod>
   </url><url>
-    <loc>https://tk-animation.github.io/Studio-Grind/</loc>
-    <lastmod>2026-06-21T01:41:50.526Z</lastmod>
+    <loc>https://tk-animation.github.io/Studio-Grind/part-1-drawing-foundations/level-2.-human-body</loc>
+    <lastmod>2026-06-21T01:41:50.602Z</lastmod>
+  </url><url>
+    <loc>https://tk-animation.github.io/Studio-Grind/part-1-drawing-foundations/level-3.-light,-shadows-and-folds</loc>
+    <lastmod>2026-06-21T01:41:50.608Z</lastmod>
+  </url><url>
+    <loc>https://tk-animation.github.io/Studio-Grind/part-1-drawing-foundations/level-4.-not-the-final-boss</loc>
+    <lastmod>2026-06-21T01:41:50.613Z</lastmod>
   </url><url>
     <loc>https://tk-animation.github.io/Studio-Grind/part-1-drawing-foundations/</loc>
     <lastmod>2026-06-21T01:41:50.527Z</lastmod>
@@ -17,24 +23,6 @@
     <loc>https://tk-animation.github.io/Studio-Grind/part-2-animation-grind/level-0.-fundamentals</loc>
     <lastmod>2026-06-21T01:41:50.620Z</lastmod>
   </url><url>
-    <loc>https://tk-animation.github.io/Studio-Grind/part-1-drawing-foundations/level-0.-simple-fundamentals</loc>
-    <lastmod>2026-06-21T01:41:50.588Z</lastmod>
-  </url><url>
-    <loc>https://tk-animation.github.io/Studio-Grind/part-1-drawing-foundations/level-1.-perspective</loc>
-    <lastmod>2026-06-21T01:41:50.596Z</lastmod>
-  </url><url>
-    <loc>https://tk-animation.github.io/Studio-Grind/part-1-drawing-foundations/level-3.-light,-shadows-and-folds</loc>
-    <lastmod>2026-06-21T01:41:50.608Z</lastmod>
-  </url><url>
-    <loc>https://tk-animation.github.io/Studio-Grind/part-1-drawing-foundations/level-2.-human-body</loc>
-    <lastmod>2026-06-21T01:41:50.602Z</lastmod>
-  </url><url>
-    <loc>https://tk-animation.github.io/Studio-Grind/part-1-drawing-foundations/level-4.-not-the-final-boss</loc>
-    <lastmod>2026-06-21T01:41:50.613Z</lastmod>
-  </url><url>
-    <loc>https://tk-animation.github.io/Studio-Grind/part-2-animation-grind/</loc>
-    <lastmod>2026-06-21T01:41:50.528Z</lastmod>
-  </url><url>
     <loc>https://tk-animation.github.io/Studio-Grind/part-2-animation-grind/level-1.-first-grind</loc>
     <lastmod>2026-06-21T01:41:50.624Z</lastmod>
   </url><url>
@@ -44,21 +32,33 @@
     <loc>https://tk-animation.github.io/Studio-Grind/part-2-animation-grind/level-3.-head-turn</loc>
     <lastmod>2026-06-21T01:41:50.632Z</lastmod>
   </url><url>
-    <loc>https://tk-animation.github.io/Studio-Grind/part-2-animation-grind/level-7.-attack-combo</loc>
-    <lastmod>2026-06-21T01:41:50.644Z</lastmod>
+    <loc>https://tk-animation.github.io/Studio-Grind/part-2-animation-grind/level-5.-walk-cycle</loc>
+    <lastmod>2026-06-21T01:41:50.636Z</lastmod>
   </url><url>
     <loc>https://tk-animation.github.io/Studio-Grind/part-2-animation-grind/level-6.-lifting-heavy-objects</loc>
     <lastmod>2026-06-21T01:41:50.640Z</lastmod>
   </url><url>
-    <loc>https://tk-animation.github.io/Studio-Grind/part-2-animation-grind/level-8.-longer-shots</loc>
-    <lastmod>2026-06-21T01:41:50.652Z</lastmod>
-  </url><url>
-    <loc>https://tk-animation.github.io/Studio-Grind/part-2-animation-grind/level-5.-walk-cycle</loc>
-    <lastmod>2026-06-21T01:41:50.636Z</lastmod>
+    <loc>https://tk-animation.github.io/Studio-Grind/part-2-animation-grind/level-7.-attack-combo</loc>
+    <lastmod>2026-06-21T01:41:50.644Z</lastmod>
   </url><url>
     <loc>https://tk-animation.github.io/Studio-Grind/part-2-animation-grind/level-7.5-effects-animation</loc>
     <lastmod>2026-06-21T01:41:50.648Z</lastmod>
   </url><url>
+    <loc>https://tk-animation.github.io/Studio-Grind/part-2-animation-grind/level-8.-longer-shots</loc>
+    <lastmod>2026-06-21T01:41:50.652Z</lastmod>
+  </url><url>
+    <loc>https://tk-animation.github.io/Studio-Grind/part-2-animation-grind/</loc>
+    <lastmod>2026-06-21T01:41:50.528Z</lastmod>
+  </url><url>
+    <loc>https://tk-animation.github.io/Studio-Grind/special-thanks</loc>
+    <lastmod>2026-06-21T01:41:50.665Z</lastmod>
+  </url><url>
+    <loc>https://tk-animation.github.io/Studio-Grind/useful-links</loc>
+    <lastmod>2026-06-21T01:41:50.658Z</lastmod>
+  </url><url>
+    <loc>https://tk-animation.github.io/Studio-Grind/</loc>
+    <lastmod>2026-06-21T01:41:50.526Z</lastmod>
+  </url><url>
     <loc>https://tk-animation.github.io/Studio-Grind/tags/</loc>
-    <lastmod>2026-06-21T01:41:57.439Z</lastmod>
+    <lastmod>2026-06-21T01:46:31.105Z</lastmod>
   </url></urlset>
