@@ -152,7 +152,7 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
         const targets = document.querySelectorAll('[data-goatcounter-views]');
         if (targets.length === 0) return;
 
-        fetch(counterBase + encodeURIComponent(location.pathname) + '.json')
+        fetch(counterBase + 'TOTAL.json')
           .then((response) => {
             if (!response.ok) throw new Error('GoatCounter visitor counter is unavailable');
             return response.json();
