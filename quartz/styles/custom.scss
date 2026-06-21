@@ -135,13 +135,11 @@ article.studio-section > .article-title {
 }
 
 .studio-hero {
-  align-items: stretch;
+  align-items: center;
   background: var(--studio-ink);
-  display: grid;
-  grid-template-columns: minmax(0, 1.55fr) minmax(190px, 0.65fr);
-  height: 520px;
+  display: flex;
   margin-bottom: 3rem;
-  min-height: 430px;
+  min-height: 340px;
   overflow: hidden;
 }
 
@@ -155,27 +153,6 @@ article.studio-section > .article-title {
   font-size: 4.8rem;
   line-height: 0.9;
   margin: 0.45rem 0 1.25rem;
-}
-
-.studio-hero .studio-kicker {
-  color: #ff8a65;
-}
-
-.studio-deck {
-  color: #d1d5db;
-  font-size: 1.12rem;
-  line-height: 1.55;
-  max-width: 34rem;
-}
-
-.studio-hero > img {
-  border: 0;
-  box-shadow: none;
-  height: 100%;
-  max-height: none;
-  object-fit: cover;
-  object-position: 62% center;
-  width: 100%;
 }
 
 .studio-kicker,
@@ -411,26 +388,15 @@ article.studio-section > .article-title {
     padding-right: 0;
   }
 
-  .studio-hero {
-    grid-template-columns: minmax(0, 1.45fr) minmax(150px, 0.55fr);
-  }
 }
 
 @media all and ($mobile) {
   .studio-hero {
-    grid-template-columns: 1fr;
-    height: auto;
-    min-height: 0;
+    min-height: 280px;
   }
 
   .studio-hero-copy {
     padding: 2rem 1.35rem;
-  }
-
-  .studio-hero > img {
-    aspect-ratio: 16 / 7;
-    max-height: 230px;
-    object-position: center 35%;
   }
 
   .lesson-grid,

@@ -97,15 +97,12 @@ cssclasses:
 
 <section class="studio-hero">
   <div class="studio-hero-copy">
-    <p class="studio-kicker">A drawing & animation field guide</p>
     <h1>Studio Grind</h1>
-    <p class="studio-deck">Build the eye, hand, and judgment to draw with intention - then turn that control into animation.</p>
     <div class="studio-actions">
       <a class="studio-button primary" href="/part-1-drawing-foundations/">Start with drawing</a>
       <a class="studio-button" href="/part-2-animation-grind/">Jump to animation</a>
     </div>
   </div>
-  <img src="./media/Pasted%20image%2020260616032542.png" alt="Framed Ink book cover" />
 </section>
 
 ## Before you begin
