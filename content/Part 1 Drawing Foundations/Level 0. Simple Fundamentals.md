@@ -13,6 +13,8 @@ My personal picks for the fundamental of construction, would be copying what you
 
 The Dynamic Bible - Peter Han
 ![[Pasted image 20260616021152.png|401]]
+It also has Video Lessons format: https://www.youtube.com/playlist?list=PLqR-aNpyEIVd91GCwsyOS3oRn6eoRhyio
+
 
 and as an alternative (I haven't tried it), [drawabox](https://drawabox.com/).
 
